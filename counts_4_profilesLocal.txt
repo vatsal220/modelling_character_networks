@@ -1,1 +1,0 @@
-#graph	sample_prob_keep	n3_3	n3_2	n3_1	n3_0	n4_0	n4_1	n4_2	n4_3	n4_4	n4_5	n4_6	n4_7	n4_8	n4_9	n4_10	runtime
